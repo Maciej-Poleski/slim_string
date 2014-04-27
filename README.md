@@ -1,0 +1,2 @@
+slim_string prototype
+
